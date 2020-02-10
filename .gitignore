@@ -5,7 +5,7 @@ node_modules
 .idea
 /.pnp
 .pnp.js
-/server/config/keys
+server/config/keys
 # testing
 /coverage
 
